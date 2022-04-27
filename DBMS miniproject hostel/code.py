@@ -4,6 +4,7 @@ from mysql.connector import (connection)
 from PIL import ImageTk, Image  
 from tkinter import ttk
 
+#before executing change path of picture
 
 def submit6():
     fee=Toplevel()
